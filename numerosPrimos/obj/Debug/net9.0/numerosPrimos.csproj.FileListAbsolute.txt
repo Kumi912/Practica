@@ -1,0 +1,14 @@
+C:\Users\Huawei\Documents\numerosPrimos\bin\Debug\net9.0\numerosPrimos.exe
+C:\Users\Huawei\Documents\numerosPrimos\bin\Debug\net9.0\numerosPrimos.deps.json
+C:\Users\Huawei\Documents\numerosPrimos\bin\Debug\net9.0\numerosPrimos.runtimeconfig.json
+C:\Users\Huawei\Documents\numerosPrimos\bin\Debug\net9.0\numerosPrimos.dll
+C:\Users\Huawei\Documents\numerosPrimos\bin\Debug\net9.0\numerosPrimos.pdb
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\numerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\numerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\numerosPrimos.AssemblyInfo.cs
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\numerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\numerosPrimos.dll
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\refint\numerosPrimos.dll
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\numerosPrimos.pdb
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\numerosPrimos.genruntimeconfig.cache
+C:\Users\Huawei\Documents\numerosPrimos\obj\Debug\net9.0\ref\numerosPrimos.dll
